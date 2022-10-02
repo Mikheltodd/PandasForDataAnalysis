@@ -1,2 +1,2 @@
 # PandasForDataAnalysis
- Padnas for Data Analysis. Info based on Codecademy, 2022.
+ Pandas for Data Analysis. Info based on Codecademy, 2022.
